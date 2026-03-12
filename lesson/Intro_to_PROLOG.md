@@ -27,7 +27,7 @@ Il faut penser :
 
 > Quelles sont les connaissances et quelles règles logiques permettent de déduire la réponse ?
 
-Cela influence également la manière de **Debuggerguer un programme**.  
+Cela influence également la manière de **Debugguer un programme**.  
 Dans les langages impératifs, on trace l’exécution ligne par ligne.  
 En Prolog, on doit analyser :
 
