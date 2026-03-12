@@ -6,15 +6,15 @@ Welcome to this Prolog repository! Prolog (PROgrammation LOGique) is a high-leve
 
 This repository is designed to help students master the fundamentals of logic programming, starting from simple facts and moving towards complex list manipulation and recursive algorithms.
 
-## ��� Repository Structure
+##  Repository Structure
 
+- **[lesson/Intro_to_PROLOG.md](lesson/Intro_to_PROLOG.md)**: A comprehensive introduction to Prolog (Prolog 101), covering facts, rules, unification, backtracking, and list manipulation.
 - **[Prolog_TP1.md](Prolog_TP1.md)**: The main instruction sheet for the exercises, covering:
-  - List manipulation (belonging, concatenation, palindromes, etc.)
   - Logic programming with a family tree (facts & rules)
   - Sorting algorithms (Merge Sort, Selection Sort)
   - Recursive arithmetic (Factorial, Fibonacci, GCD)
 
-## ��� Solutions
+##  Solutions
 
 The solutions are organized by exercise topic:
 
@@ -25,7 +25,7 @@ The solutions are organized by exercise topic:
 - **[Selection_Sort.pl](Selection_Sort.pl)**: Solution for Exercice 5 (Selection Sort implementation).
 - **[Arithmetic.pl](Arithmetic.pl)**: Solutions for Exercise 6 (Arithmetic bonus: Max, Fact, Power, Fibonacci, PGCD).
 
-## ��� Getting Started
+##  Getting Started
 
 ### Prerequisites
 
